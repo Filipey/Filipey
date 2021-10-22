@@ -1,9 +1,9 @@
 ### Oi, eu sou o Filipe! 👋
 
 
-- 🔭 Atualmente cursando Sistemas de Informação, 2º período
-- 🌱 Aprendendo C e Java
-- 😄 Procurando sempre aprender mais!!
+- 🔭 Currently studying Information Systems, 2nd period
+- 🌱 Learning C and Java
+- 😄 Alawys looking to learn and evolve!!
 
 <a href="https://github.com/Filipey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
