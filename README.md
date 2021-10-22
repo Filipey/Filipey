@@ -1,4 +1,4 @@
-### Oi, eu sou o Filipe! 👋
+### Hi, im Filipe! 👋
 
 
 - 🔭 Currently studying Information Systems, 2nd period
