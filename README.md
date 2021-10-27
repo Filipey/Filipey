@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently studying Information Systems, 2nd period
-- 🌱 Learning C and Java
+- 🌱 Learning C, Java, JavaScript, HTML and CSS
 - 😄 Alawys looking to learn and evolve!!
 
 <a href="https://github.com/Filipey">
