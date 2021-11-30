@@ -3,7 +3,7 @@
 
 - 🔭 Currently studying Information Systems, 2nd period
 - 🌱 Learning C, Java, JavaScript, HTML and CSS
-- 😄 Alawys looking to learn and evolve!!
+- 😄 Always looking to learn and evolve!!
 
 <a href="https://github.com/Filipey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
