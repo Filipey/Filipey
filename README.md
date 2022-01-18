@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently studying Information Systems, 2nd period
-- 🌱 Learning C, Java, JavaScript, HTML and CSS
+- 🌱 Learning React, Java, JavaScript, TypeScript, HTML and CSS
 - 😄 Always looking to learn and evolve!!
 
 <a href="https://github.com/Filipey">
@@ -11,10 +11,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Filipe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Filipe-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Filipe-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Filipe-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Filipe-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
   
   
