@@ -1,7 +1,7 @@
 ### Hi, im Filipe! 👋
 
 
-- 🔭 Currently studying Information Systems, 3nd period
+- 🔭 Currently studying Information Systems, 3rd period
 - 🌱 Learning React, Java Spring, TypeScript and a bit of Python!
 - 😄 Always looking to learn and evolve!!
 
