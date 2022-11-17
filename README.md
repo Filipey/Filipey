@@ -1,7 +1,7 @@
 ### Hi, im Filipe! 👋
 
 
-- 🔭 Currently studying Information Systems, 5rd period
+- 🔭 Currently studying Information Systems, 5th period
 - 🌱 Learning about Web Applications and Data Analytics using different tools!
 - 😄 Always looking to learn and evolve!!
 
