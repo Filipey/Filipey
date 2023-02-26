@@ -10,8 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipey&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Filipey&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Filipey&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipey&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filipey&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Filipey&theme=nord_dark) |
 | :-: | :-: | :-: |
