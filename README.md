@@ -1,7 +1,7 @@
 ### Hi, im Filipe! 👋
 
 
-- 🔭 Currently studying Information Systems, 5th period
+- 🔭 Currently studying Information Systems, 7th period
 - 🌱 Learning about Web Applications and Data Analytics using different tools!
 - 😄 Always looking to learn and evolve!!
 
@@ -33,7 +33,6 @@
   <img align="center" alt="Filipe-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Filipe-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Filipe-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Filipe-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Filipe-Phoenix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
 
 ### Toolkit
