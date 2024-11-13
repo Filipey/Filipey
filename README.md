@@ -2,8 +2,9 @@
 
 
 - Graduated in Information Systems at @UFOP | Currently interested in pursuing a Master's in Computer Science
-- R&D at @UFMG in partnership with the Public Prosecutor's Office of Minas Gerais
+- R&D at @UFMG in partnership with the Public Prosecutor's Office of Minas Gerais (MPMG) and the Military Police of Minas Gerais (PMMG)
 - Interested in Complex Networks, Real World Networks, Multimedia Data Mining, Machine Learning, Hypergraphs, Graph Neural Networks and Distributed Computing
+- 22yo
 - 3-year experience with Web development
 
 <a href="https://github.com/Filipey">
