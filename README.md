@@ -1,7 +1,7 @@
 ### Hi, im Filipe! 👋
 
 
-- Graduated in Information Systems at @UFOP | Msc. Student in Computer Science at @UFMG
+- Undergraduated in Information Systems at @UFOP | Msc. Student in Computer Science at @UFMG
 - R&D at @UFMG in partnership with the Public Prosecutor's Office of Minas Gerais (MPMG) and the Military Police of Minas Gerais (PMMG)
 - Interested in Complex Networks, Real World Networks, Multimedia Data Mining, Machine Learning, Hypergraphs, Graph Neural Networks and Distributed Computing
 - 22yo
